@@ -87,7 +87,7 @@ Existing records can be modified. The controller binds existing data to the view
 ---
 
 ## 🔗 5. Github URL
-[https://github.com/example/library-management-springboot](https://github.com/example/library-management-springboot)
+[https://github.com/mr-panther01/BITS_SPRING_PROJECT](https://github.com/mr-panther01/BITS_SPRING_PROJECT)
 
 ---
 *Created as part of the Spring Boot Development Assignment.*
